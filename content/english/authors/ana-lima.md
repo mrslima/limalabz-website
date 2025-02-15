@@ -1,6 +1,6 @@
 ---
-title: John Doe
-email: johndoe@email.com
+title: Ana Lima
+email: samwilson@email.com
 image: "/images/avatar.png"
 description: this is meta description
 social:
@@ -9,8 +9,8 @@ social:
     link: https://github.com
 
   - name: twitter
-    icon: fa-brands fa-twitter
-    link: https://twitter.com
+    icon: fa-brands fa-x-twitter
+    link: https://x.com
 
   - name: linkedin
     icon: fa-brands fa-linkedin
